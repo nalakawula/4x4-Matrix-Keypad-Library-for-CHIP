@@ -6,7 +6,7 @@ Modul ini membutuhkan pustaka CHIP_IO dari https://github.com/xtacocorex/CHIP_IO
 
 berikut ini wiringnya:
 | Keypad        | GPIO          |
-| ------------: |:--------------|
+| --- : |:--- |
 | Row 1      | XIO-P0 |
 | Row 2      | XIO-P2      |
 | Row 3 | XIO-P4      |
